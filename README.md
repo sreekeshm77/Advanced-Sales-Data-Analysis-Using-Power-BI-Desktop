@@ -3,7 +3,7 @@
 
 ![Image Alt](https://github.com/sreekeshm77/Advanced-Sales-Data-Analysis-Using-Power-BI-Desktop/blob/863be0cc3d35b423911f89f674640af91e9bbd2d/Screenshot%202024-09-03%20152420.png)
 
-![Image Alt]()
+![Image Alt](https://github.com/sreekeshm77/Advanced-Sales-Data-Analysis-Using-Power-BI-Desktop/blob/a49fc2729f42ed3556ff60725138aa52af98d261/Screenshot%202024-09-03%20152447.png)
 
 This project involved conducting an advanced analysis of sales data using Power BI Desktop, leveraging the platform's comprehensive data modeling and visualization features to uncover key insights and trends.
 
