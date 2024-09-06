@@ -1,4 +1,6 @@
-                                  Advanced Sales Data Analysis Using Power BI Desktop
+Advanced Sales Data Analysis Using Power BI Desktop
+
+____________________________________________________________________________________________________________________
                                   
 
 ![Image Alt](https://github.com/sreekeshm77/Advanced-Sales-Data-Analysis-Using-Power-BI-Desktop/blob/863be0cc3d35b423911f89f674640af91e9bbd2d/Screenshot%202024-09-03%20152420.png)
