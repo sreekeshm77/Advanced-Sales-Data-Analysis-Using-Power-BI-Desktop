@@ -1,4 +1,8 @@
-Advanced Sales Data Analysis Using Power BI Desktop
+                                                           Advanced Sales Data Analysis Using Power BI Desktop
+
+![Image Alt]()
+
+![Image Alt]()
 
 This project involved conducting an advanced analysis of sales data using Power BI Desktop, leveraging the platform's comprehensive data modeling and visualization features to uncover key insights and trends.
 
